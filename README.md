@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antcorper
 - 👀 I’m interested in GIS and programming
-- 🌱 I’m currently learning HTML, CSS, JS and PHP
+- 🌱 I’m currently learning HTML, CSS, JS and PHP, later i'll learn python too
 - 💞️ I’m looking to collaborate on something that could support the society
 - 📫 How to reach me www.linkedin.com/in/antonio-jesús-cordero-pérez-1b7706141
 
