@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antcorper
-- 👀 I’m interested in GIS and programming
-- 🌱 I’m currently learning HTML, CSS and JS, later i'll learn python too
+- 👀 I’m interested in GIS and programming. And have a basic knowledge about HTML, CSS and JS.
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on something that could support the society
 - 📫 How to reach me https://bio-ajcp.netlify.app
 
